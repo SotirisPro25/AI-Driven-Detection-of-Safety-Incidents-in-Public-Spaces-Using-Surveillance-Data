@@ -1,0 +1,10 @@
+The split lists in this folder, Copyright (c) 2026 Sotirios Prountzos, are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The lists hold file names, partition assignments, video identifiers and, in
+ieee_shared_frames_check.csv, statistics of a frame comparison. They contain no video, image or
+annotation data of either dataset. The file names are those of the IEEE DataPort
+Traffic Accident Detection Video Dataset (doi:10.21227/tjtg-nz28) and the video identifiers
+those of the CADP dataset (doi:10.1109/AVSS.2018.8639160). Both datasets remain under the terms
+of their own providers.

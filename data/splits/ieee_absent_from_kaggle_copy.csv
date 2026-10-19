@@ -1,0 +1,10 @@
+distributed_partition,class,ieee_name,reason
+test,Sidehit,North American Car Driving Fails Compilation - 533 -Dashcam and Crash Compilation_3700_4061.mp4,not in the Kaggle copy
+test,Sidehit Rollover,North American Car Driving Fails Compilation - 533 - Dashcam and Crash Compilation_2150_2281.mp4,not in the Kaggle copy
+test,No Accident Normal Traffic,Московский трафик-splitted-430-435.mp4 | Трафик в пятницу в городе-splitted-430-435.mp4,"one of these two files is in the Kaggle copy under -splitted-430-435.mp4, the other is not"
+test,No Accident Normal Traffic,Московский трафик-splitted-390-395.mp4 | Трафик в пятницу в городе-splitted-390-395.mp4,"one of these two files is in the Kaggle copy under -splitted-390-395.mp4, the other is not"
+test,No Accident Normal Traffic,Московский трафик-splitted-450-455.mp4 | Трафик в пятницу в городе-splitted-450-455.mp4,"one of these two files is in the Kaggle copy under -splitted-450-455.mp4, the other is not"
+test,No Accident Normal Traffic,Московский трафик-splitted-435-440.mp4 | Трафик в пятницу в городе-splitted-435-440.mp4,"one of these two files is in the Kaggle copy under -splitted-435-440.mp4, the other is not"
+test,No Accident Normal Traffic,Московский трафик-splitted-410-415.mp4 | Трафик в пятницу в городе-splitted-410-415.mp4,"one of these two files is in the Kaggle copy under -splitted-410-415.mp4, the other is not"
+test,No Accident Normal Traffic,Московский трафик-splitted-455-460.mp4 | Трафик в пятницу в городе-splitted-455-460.mp4,"one of these two files is in the Kaggle copy under -splitted-455-460.mp4, the other is not"
+test,No Accident Normal Traffic,трафик вечер Кокошкино-splitted-65-70.mp4 | трафик машин-splitted-65-70.mp4,"one of these two files is in the Kaggle copy under -splitted-65-70.mp4, the other is not"
